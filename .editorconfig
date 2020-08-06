@@ -4,6 +4,30 @@ root = false
 [*]
 indent_style = tab
 indent_size = 4
+dsfsdf
+
+f
+d
+ds
+f
+dsf
+ds
+fds
+f
+dsf
+ds
+fds
+fdsf
+
+fds
+f
+dsfdsf
+ds
+fds
+fdsf
+ds
+fds
+
 end_of_line = lf
 trim_trailing_whitespace = true
 insert_final_newline = false
